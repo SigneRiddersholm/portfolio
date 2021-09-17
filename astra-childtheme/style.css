@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://localhost
+ Description:  Astra Child Theme
+ Author:       Signe Riddersholm
+ Author URI:   http://localhost
+ Template:     astra
+ Version:      1.5
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Blog, Custom Colors, Custom Logo, Custom Menu, E-Commerce, Editor Style, Entertainment, Featured Images, Full Width Template, Left Sidebar, Microformats, One Column, Post Formats, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready, Two Columns  
+ Text Domain:  astrachildtheme
+*/
+
+/* Making header sticky */
+.site-primary-header-wrap.ast-builder-grid-row-container.site-header-focus-item.ast-container {
+    position: fixed;
+    width: 100%;
+}
+
+/* Changing and styling headings */ 
+h2.elementor-heading-title.elementor-size-default {
+    color: #9E8787;
+}
+
+/* styling footer */
+.site-primary-footer-wrap.ast-builder-grid-row-container.site-footer-focus-item.ast-builder-grid-row-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-mobile-full.ast-footer-row-stack.ast-footer-row-tablet-stack.ast-footer-row-mobile-stack {
+    background-color: #b7adad;
+}
+
+.site-below-footer-wrap.ast-builder-grid-row-container.site-footer-focus-item.ast-builder-grid-row-2-equal.ast-builder-grid-row-tablet-2-equal.ast-builder-grid-row-mobile-full.ast-footer-row-stack.ast-footer-row-tablet-stack.ast-footer-row-mobile-stack {
+    background-color: #b7adad;
+}
+
+/* Styling Aeblefald site */
+/*h2.elementor-heading-title.elementor-size-default {
+    color: #abb796;
+    font-family: marker felt;
+}*/
+
+i.fas.fa-long-arrow-alt-down {
+    color: coral;
+}
+
+#projektoverskrift {
+    color: #abb796;
+    font-family: marker felt;
+}
+
