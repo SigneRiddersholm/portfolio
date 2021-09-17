@@ -23,7 +23,16 @@ h2.elementor-heading-title.elementor-size-default {
     color: #9E8787;
 }
 
-/* styling footer */
+h1.elementor-heading-title.elementor-size-default {
+    font-family: avenir;
+}
+
+h3.elementor-heading-title.elementor-size-default {
+    color: #abb796;
+}
+
+
+/* styling footer (color) */
 .site-primary-footer-wrap.ast-builder-grid-row-container.site-footer-focus-item.ast-builder-grid-row-full.ast-builder-grid-row-tablet-full.ast-builder-grid-row-mobile-full.ast-footer-row-stack.ast-footer-row-tablet-stack.ast-footer-row-mobile-stack {
     background-color: #b7adad;
 }
@@ -32,18 +41,16 @@ h2.elementor-heading-title.elementor-size-default {
     background-color: #b7adad;
 }
 
-/* Styling Aeblefald site */
-/*h2.elementor-heading-title.elementor-size-default {
-    color: #abb796;
-    font-family: marker felt;
-}*/
-
-i.fas.fa-long-arrow-alt-down {
-    color: coral;
+/* changing single heading with specific id on homepage*/
+#projektoverskrift h2 {
+    color: #9E8787 !important;
 }
 
-#projektoverskrift {
-    color: #abb796;
-    font-family: marker felt;
-}
+
+
+
+
+
+
+
 
